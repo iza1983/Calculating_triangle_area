@@ -1,1 +1,1 @@
-# kodilla-8.4 - calculating triangle area
+# Calculating triangle area / Obliczanie pola trójkąta
